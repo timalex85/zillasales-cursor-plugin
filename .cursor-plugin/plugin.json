@@ -1,0 +1,20 @@
+{
+  "name": "zillasales",
+  "displayName": "ZillaSales",
+  "version": "1.0.0",
+  "description": "Find independent sales reps and commission-based opportunities. Compare territories and terms, build shortlists, and prepare applications or private opportunity drafts.",
+  "author": {
+    "name": "Zilla Apps",
+    "email": "support@zillasales.com"
+  },
+  "homepage": "https://zillasales.com/developers",
+  "repository": "https://github.com/timalex85/zillasales-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/icon.png",
+  "keywords": [
+    "sales",
+    "sales-representatives",
+    "opportunities",
+    "territories"
+  ]
+}

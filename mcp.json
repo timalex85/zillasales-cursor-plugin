@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "zillasales": {
+      "url": "https://zillasales.com/api/mcp/claude"
+    }
+  }
+}
