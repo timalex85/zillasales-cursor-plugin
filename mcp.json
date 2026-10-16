@@ -1,7 +1,19 @@
 {
   "mcpServers": {
     "zillasales": {
-      "url": "https://zillasales.com/api/mcp/claude"
+      "url": "https://zillasales.com/api/mcp/claude",
+      "auth": {
+        "CLIENT_ID": "cmva7m0ke16y0ql01vjrf61c5",
+        "scopes": [
+          "account:read",
+          "favorites:read",
+          "favorites:write",
+          "opportunities:read",
+          "opportunities:write",
+          "applications:read",
+          "applications:write"
+        ]
+      }
     }
   }
 }
