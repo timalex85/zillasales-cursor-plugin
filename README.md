@@ -1,21 +1,34 @@
-# ZillaSales for Cursor and Grok Bot
+# ZillaSales: Sales Reps & Opportunities
 
-Find independent sales reps and commission-based opportunities. Compare territories and terms, build shortlists, and prepare applications or private opportunity drafts.
+For Cursor and Grok Bot.
 
-![ZillaSales](assets/icon.png)
+<img src="assets/icon.png" alt="ZillaSales: Sales Reps & Opportunities icon" width="72" height="72">
 
-Find independent sales opportunities and representatives, compare results, and manage your own shortlist and application or opportunity drafts.
+Find independent sales reps and commission-based opportunities. Compare the fit, build a shortlist and take the next step with your assistant.
 
-The service supports anonymous public opportunity and representative searches. This full Cursor package may request a ZillaSales company or rep connection when enabled; account access is required to save items, read private records, prepare drafts, or apply. Existing account permissions still govern access. Saving does not apply, contact anyone, unlock contact details or spend credits. Applications and moderation submissions require reviewing the exact proposed action and explicitly confirming it.
+![ZillaSales: Sales Reps & Opportunities: illustrated feature overview](assets/feature-overview.png)
 
-The plugin includes two skills: finding sales opportunities and building sales coverage. Interactive comparison views use MCP Apps; text results remain available when a client cannot show the view.
+## What you can do
 
-## Examples
+| Your goal | What you can do |
+| --- | --- |
+| Find independent reps | Search by product experience, industry, territory, buyer type and sales channel. |
+| Find opportunities | Discover commission-based sales opportunities and compare disclosed terms, coverage and support. |
+| Compare your options | Explore interactive comparison views where supported, with text results also available. |
+| Build a shortlist | Connect to save selected reps or opportunities and revisit your favorites. |
+| Apply with confidence | Prepare an application, review exactly what will be shared, confirm submission and track your applications. |
+| Build sales coverage | Create and edit private opportunity drafts, confirm submission for review, and review your company’s applicants. |
 
-- "Find commission-based industrial automation opportunities covering Texas. Show the commission terms and anything unknown."
-- "Find reps for commercial LED lighting in Texas and compare their relevant experience."
-- "Save this opportunity to my favorites." Sign in when prompted; saving does not submit an application.
-- "Help me apply to this opportunity." Review the prepared application and confirm before it is submitted.
+## Try asking
+
+- “Find independent reps for commercial LED lighting in Texas and compare their relevant experience.”
+- “Find commission-based industrial automation opportunities covering Texas. Compare territory, commission terms and support.”
+- “Save these opportunities to my favorites.”
+- “Help me draft an opportunity for our new product line. Ask me for the missing details.”
+
+This package can prompt for an account connection when enabled. Public service endpoints also support anonymous discovery; connected workflows use your existing permissions.
+
+You review and confirm applications and moderation submissions before they are sent. Saving does not contact anyone, unlock contact details or spend credits. The visual illustrates the workflow, not live profiles or an in-app screenshot.
 
 ## Install and connect
 
@@ -25,7 +38,7 @@ For local testing in Cursor, copy this repository's contents (including `.cursor
 
 This package configures OAuth explicitly. Cursor may request an account connection when the plugin is enabled, including before public searches. Sign in on ZillaSales, review the permissions and approve only the intended account. Account connection is required for the package's private workflows.
 
-Grok Bot uses the same plugin ecosystem. Once available, install through its plugin interface; see [Grok Bot setup](https://cursor.com/docs/grok-bot/get-started) for account/client requirements. Actual standalone Grok Bot verification is separate from Cursor verification.
+Grok Bot uses the same plugin ecosystem. Once available, install through its plugin interface; see [Grok Bot setup](https://cursor.com/docs/grok-bot/get-started) for account/client requirements.
 
 The package's MCP configuration is:
 

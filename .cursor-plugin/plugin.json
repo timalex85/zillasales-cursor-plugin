@@ -1,8 +1,8 @@
 {
   "name": "zillasales",
-  "displayName": "ZillaSales",
-  "version": "1.0.1",
-  "description": "Find independent sales reps and commission-based opportunities. Compare territories and terms, build shortlists, and prepare applications or private opportunity drafts.",
+  "displayName": "ZillaSales: Sales Reps & Opportunities",
+  "version": "1.0.2",
+  "description": "Find independent sales reps for your business or commission-based opportunities for your sales experience. Search by products, industry and territory; compare experience, coverage and disclosed commission terms. Connect to save favorites and shortlists, prepare and submit applications, create private opportunity drafts, or review your company’s applicants. You review and confirm applications and submissions before they are sent.",
   "author": {
     "name": "Zilla Apps",
     "email": "support@zillasales.com"
@@ -12,9 +12,12 @@
   "license": "MIT",
   "logo": "assets/icon.png",
   "keywords": [
-    "sales",
+    "sales-reps",
     "sales-representatives",
-    "opportunities",
-    "territories"
+    "commission-based",
+    "sales-opportunities",
+    "territories",
+    "shortlists",
+    "business-development"
   ]
 }
